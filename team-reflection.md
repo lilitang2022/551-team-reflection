@@ -67,7 +67,7 @@ Point form is fine.
 Specifically,
 comment on the following areas:
 - As my previous job is related to the financial market, I have a good understanding of the needs of the investors, so I took the responsibility of constructing the workflow for the dash and provided a more precise and explicit understanding of the process of utilizing the dash. I also took the responsibility of building the tab2, especially in data wrangling and Aggregation.
-- Gawain Gan took the responability to construct the framwork of the project and assign the work to each member. he managed the meeting and evulated the balance of team member's ability and the workload. Also he mainly focused on the first tab and the final adjustment of the Dash in millstone 4. 
+- Gawain Gan took the responability to construct the framwork of the project and assign the work to each member. he managed the meeting and evaluated the balance of team member's ability and the workload. Also he mainly focused on the first tab and the final adjustment of the Dash in millstone 4. 
 - Amethyst He took the responsibility to build the framwork of the dash using python and R, also worked very hard on the debugging. Amythest He put lots of effort to both millstone 2 and millstone 3. Amythest He mainly focused on the construction of the code for both R and python, she is very reliable.
 - Zhijia Ju took the responsibility to build the first part of tab3 in millstone 2 and reconstructed the code in R in millstone 3. Zhijia Ju put lots of effort to work with debugging and communicate efficiently with each member.
 
